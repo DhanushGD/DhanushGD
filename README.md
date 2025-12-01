@@ -36,7 +36,7 @@ I have **22 repositories**, including **10 private projects** focused on enterpr
 ---
 
 ### 🌐 Connect with Me
-![LinkedIn](https://www.linkedin.com/in/d0801)
+[LinkedIn](https://www.linkedin.com/in/d0801)
 
 ---
 ⭐ **Feel free to check out my repositories and collaborate!**
