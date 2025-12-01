@@ -30,7 +30,7 @@ I have **22 repositories**, including **10 private projects** focused on enterpr
 ---
 
 ### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/d0801/))
 
 ---
 ⭐ **Feel free to check out my repositories and collaborate!**
