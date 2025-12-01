@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira%20Code&weight=700&size=32&duration=2000&pause=1200&color=00C4FF&center=false&vCenter=false&multiline=true&width=800&height=90&lines=Hi+there%2C+This+is+Dhanush+%F0%9F%91%8B;🚀+AI+Engineer+|+AI+Enthusiast+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira%20Code&weight=700&size=32&duration=2000&pause=1200&color=FF6A00&center=false&vCenter=false&multiline=true&width=800&height=90&lines=Hi+there%2C+This+is+Dhanush+%F0%9F%91%8B;🚀+AI+Engineer+|+AI+Enthusiast+|+Tech+Explorer)](https://git.io/typing-svg)
 
 ---
 
@@ -47,6 +47,7 @@ It combines RAG (LlamaIndex + ChromaDB), Web Research, Evidence Verification, an
 
 ### 🌐 Connect with Me
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/d0801/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dhanushg0801@gmail.com)
 
 ---
 ⭐ **Feel free to check out my repositories and collaborate!**
