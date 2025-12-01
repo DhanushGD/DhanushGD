@@ -50,4 +50,4 @@ It combines RAG (LlamaIndex + ChromaDB), Web Research, Evidence Verification, an
 
 ---
 
-⭐ **Feel free to check out my repositories and collaborate!**
+### ⭐ **Feel free to check out my repositories and collaborate!**
