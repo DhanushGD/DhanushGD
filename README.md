@@ -14,7 +14,8 @@ I focus on designing **scalable, high-impact GenAI systems** that elevate enterp
 
 
 ### 📊 GitHub Stats
-![Dhanush's GitHub stats](https://github-readme-stats.vercel.app/api?username=DhanushGD&show_icons=true&themenushGD&layout=compact&theme=radical)
+![Dhanush's GitHub stats](https://github-readme-stats.vercel.app/api?username=DhanushGD&show_icons=true&theme=radical)
+!Top Languages
 
 ---
 
@@ -36,7 +37,7 @@ I have **22 repositories**, including **10 private projects** focused on enterpr
 ---
 
 ### 🌐 Connect with Me
-[[LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/d0801)
+![LinkedIn](https://www.linkedin.com/in/d0801)
 
 ---
 ⭐ **Feel free to check out my repositories and collaborate!**
