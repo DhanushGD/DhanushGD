@@ -15,7 +15,7 @@ I focus on designing **scalable, high-impact GenAI systems** that elevate enterp
 
 ### 📊 GitHub Stats
 [![Dhanush's GitHub stats](https://github-readme-stats.vercel.app/api?username=DhanushGD&show_icons=true&theme=radical)](https://github.com/DhanushGD)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DhanushGD&layout=compact&theme=radical)](https://github.com/DhanushGD)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DhanushGD&layout=compact&theme=radical)
 
 ### 📂 My Repositories
 I have **22 repositories**, including **10 private projects** focused on enterprise AI solutions.
