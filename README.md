@@ -47,7 +47,7 @@ It combines RAG (LlamaIndex + ChromaDB), Web Research, Evidence Verification, an
 
 ### 🌐 Connect with Me
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/d0801/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](dhanushg0801@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dhanushg0801@gmail.com)
 
 ---
 ⭐ **Feel free to check out my repositories and collaborate!**
