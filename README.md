@@ -15,7 +15,7 @@ I focus on designing **scalable, high-impact GenAI systems** that elevate enterp
 
 
 ### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/d0801)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)] (www.linkedin.com/in/d0801)
 
 ---
 ⭐ **Feel free to check out my repositories and collaborate!**
