@@ -22,17 +22,17 @@ Currently maintaining **22 repositories** — including **10 private** ones.
 4. 🔮 [LSTM-GRU](https://github.com/DhanushGD/Next_word_prediction_using_LSTM-GRU) – Next Word Prediction with LSTM and GRU.
 5. 🧠 [RNN](https://github.com/DhanushGD/RNN---Sentiment-Analysis) – RNN-Sentiment-Analysis
 6. ⚡ [ANN](https://github.com/DhanushGD/ANN-CLASSIFICATION-CHURN) – Customer Churn Prediction - ANN
-7. 🤖 [Generative AI Code Review and Assistance Bot](https://github.com/DhanushGD/Generative-AI-Code-Review-and-Assistance-Bot) – Generative AI Code Review and Assistance Bot=
+7. 🤖 [Generative AI Code Review and Assistance Bot](https://github.com/DhanushGD/Generative-AI-Code-Review-and-Assistance-Bot) – Generative AI Code Review and Assistance Bot
 8. ✍️ [Blogging Platform](https://github.com/DhanushGD/BLOGGING-PLATFORM) – simple blogging platform(Full-stack).
 9. 🩺 [Breast Cancer Prediction](https://github.com/DhanushGD/Breast-cancer-prediction) – Breast Cancer Prediction Using Machine Learning
-10. 📧 [Cold Email Generator](https://github.com/DhanushGD/Cold-Email-Generator) – Cold Email Generator - AI-Powered Tool for Personalized Cold Emails Using Generative AI and LLMs.
+10. 📧 [Cold Email Generator](https://github.com/DhanushGD/Cold-Email-Generator) – AI-Powered Tool for Personalized Cold Emails Using Generative AI and LLMs.
 11. 🐞 [Jira-Bug-Status-Prediction-and-Recommendation-System](https://github.com/DhanushGD/Jira-Bug-Status-Prediction-and-Recommendation-System) – Bug Status Prediction and Recommendation System is an AI-powered tool designed to. streamline bug tracking and debugging processes.
 12. 🌟 [Portfolio](https://github.com/DhanushGD/Portfolio) - My portfolio
 
 #### 🔒 Private Highlights:
-13. 🔗 **InterAgentX 4** — demonstrating agent interoperability (Python ↔ JavaScript) and tool interoperability via A2A (JSON-RPC) and a shared MCP layer (arXiv + DuckDuckGo) across languages and framework.
-It combines RAG (LlamaIndex + ChromaDB), Web Research, Evidence Verification, and JS-based Summarization inside a results-first Streamlit UI with a live workflow visualization.
-14. 🤝 **InterAgentX** — RAG + CrewAI + MCP + ADK-Compatible A2A Agent
+13. 🔗 **InterAgentX 4** — demonstrating **agent interoperability** (Python ↔ JavaScript) and **tool interoperability** via **A2A** (JSON-RPC) and a shared **MCP** layer (arXiv + DuckDuckGo) across languages and framework.
+It combines RAG (**LlamaIndex** + **ChromaDB**), Web Research, Evidence Verification, and JS-based Summarization inside a results-first Streamlit UI with a live workflow visualization.
+14. 🤝 **InterAgentX** — RAG + CrewAI + **MCP** + ADK-Compatible A2A Agent
 15. 🤖 **SupportSage**: TinyLlama Fine-Tuned on Support Tickets with **LoRA/QLoRA** (Unsloth), W&B Tracking, and SageMaker Deployment via S3
 16. 🎯 **LlamaRefine**: Aligning TinyLlama via **Supervised Fine-Tuning** and **Direct Preference Optimization (RLHF)**
 17. 🧩 **Fine-Tuning with RLHF-PPO** (Proximal Policy Optimization)
