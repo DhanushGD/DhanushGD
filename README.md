@@ -1,7 +1,7 @@
 
 # Hi there, This is Dhanush 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira%20Code&size=26&pause=1500&color=FF8800&width=820&height=64&lines=%F0%9F%9A%80+AI+Engineer+%7C+AI+Enthusiast+%7C+Tech+Explorer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira%20Code&weight=600&size=28&duration=2000&pause=1200&color=FFFFFF&center=false&vCenter=false&multiline=true&width=750&height=80&lines=🚀+AI+Engineer+|+AI+Enthusiast+|+Tech+Explorer)](https://git.io/typing-svg)
 
 ---
 
