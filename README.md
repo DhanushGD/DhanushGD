@@ -1,11 +1,9 @@
 
 # Hi there, This is Dhanush 👋
 
-!Typing SVG
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira%20Code&size=26&pause=1500&color=FF8800&width=820&height=64&lines=%F0%9F%9A%80+AI+Engineer+%7C+AI+Enthusiast+%7C+Tech+Explorer)](https://git.io/typing-svg)
 
 ---
-
-## 🚀 AI Engineer | AI Enthusiast | Tech Explorer
 
 ### 🌟 About Me
 AI Engineer specialized in **LLM fine-tuning**, **agentic AI systems**, **RAG pipelines**, and **enterprise GenAI architecture**.
