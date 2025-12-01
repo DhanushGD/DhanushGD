@@ -29,7 +29,6 @@ I have **22 repositories**, including **10 private projects**.
 11. 🐞 [Jira-Bug-Status-Prediction-and-Recommendation-System](https://github.com/DhanushGD/Jira-Bug-Status-Prediction-and-Recommendation-System) – Bug Status Prediction and Recommendation System is an AI-powered tool designed to. streamline bug tracking and debugging processes.
 12. 🌟 [Portfolio](https://github.com/DhanushGD/Portfolio) - My portfolio
 
-
 #### 🔒 Private Projects:
 13. 🔗 **InterAgentX 4** — demonstrating agent interoperability (Python ↔ JavaScript) and tool interoperability via A2A (JSON-RPC) and a shared MCP layer (arXiv + DuckDuckGo) across languages and framework.
 It combines RAG (LlamaIndex + ChromaDB), Web Research, Evidence Verification, and JS-based Summarization inside a results-first Streamlit UI with a live workflow visualization.
@@ -50,4 +49,5 @@ It combines RAG (LlamaIndex + ChromaDB), Web Research, Evidence Verification, an
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dhanushg0801@gmail.com)
 
 ---
+
 ⭐ **Feel free to check out my repositories and collaborate!**
