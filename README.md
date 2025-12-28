@@ -30,17 +30,18 @@ Currently maintaining **22 repositories** — including **10 private** ones.
 12. 🌟 [Portfolio](https://github.com/DhanushGD/Portfolio) - My portfolio
 
 #### 🔒 Private Highlights:
-13. 🔗 **InterAgentX 4** — demonstrating **agent interoperability** (Python ↔ JavaScript) and **tool interoperability** via **A2A** (JSON-RPC) and a shared **MCP** layer (arXiv + DuckDuckGo) across languages and framework.
+13. 🦙 **BioLLama** - From Domain-Adaptive Pretraining to Supervised Fine-Tuning for Healthcare LLMs — teaching LLMs to truly understand healthcare, not just generate text.
+14. 🔗 **InterAgentX 4** — demonstrating **agent interoperability** (Python ↔ JavaScript) and **tool interoperability** via **A2A** (JSON-RPC) and a shared **MCP** layer (arXiv + DuckDuckGo) across languages and framework.
 It combines RAG (**LlamaIndex** + **ChromaDB**), Web Research, Evidence Verification, and JS-based Summarization inside a results-first Streamlit UI with a live workflow visualization.
-14. 🤝 **InterAgentX** — RAG + CrewAI + **MCP** + ADK-Compatible A2A Agent
-15. 🤖 **SupportSage**: **TinyLlama Fine-Tuned** on Support Tickets with **LoRA/QLoRA** (Unsloth), W&B Tracking, and **SageMaker Deployment via S3**
-16. 🎯 **LlamaRefine**: Aligning TinyLlama via **Supervised Fine-Tuning** and **Direct Preference Optimization (RLHF)**
-17. 🧩 **Fine-Tuning with RLHF-PPO** (Proximal Policy Optimization)
-18. 🔍 **Fine-Tuning a Gemma-3n model**
-19. 🩺 **LLM Doctor**: **TinyLlama Fine-Tuned** on MedQuAD with **Ollama** Integration
-20. 🧠 **SupportMind** - **Stateful multi-agent** IT support powered by **fine-tuned AI(Lora/QLora)**.
-21. 📊 **ChartInsight AI** – A Multi-Agent Chart Analyzer with **Azure OCR** & **LangGraph**
-22. 🔍 **AI IT Assistant** - **Hybrid Search RAG** + Multi-Agent System with **CrewAI**
+15. 🤝 **InterAgentX** — RAG + CrewAI + **MCP** + ADK-Compatible A2A Agent
+16. 🤖 **SupportSage**: **TinyLlama Fine-Tuned** on Support Tickets with **LoRA/QLoRA** (Unsloth), W&B Tracking, and **SageMaker Deployment via S3**
+17. 🎯 **LlamaRefine**: Aligning TinyLlama via **Supervised Fine-Tuning** and **Direct Preference Optimization (RLHF)**
+18. 🧩 **Fine-Tuning with RLHF-PPO** (Proximal Policy Optimization)
+19. 🔍 **Fine-Tuning a Gemma-3n model**
+20. 🩺 **LLM Doctor**: **TinyLlama Fine-Tuned** on MedQuAD with **Ollama** Integration
+21. 🧠 **SupportMind** - **Stateful multi-agent** IT support powered by **fine-tuned AI(Lora/QLora)**.
+22. 📊 **ChartInsight AI** – A Multi-Agent Chart Analyzer with **Azure OCR** & **LangGraph**
+23. 🔍 **AI IT Assistant** - **Hybrid Search RAG** + Multi-Agent System with **CrewAI**
 
 ---
 
