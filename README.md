@@ -13,7 +13,7 @@ I focus on designing **scalable, high-impact GenAI systems** that elevate enterp
 ---
 
 ### 📂 My Repositories
-Currently maintaining **22 repositories** — including **10 private** ones.
+Currently maintaining **23 repositories** — including **11 private** ones.
 
 #### 🔓 Public Highlights:
 1. 🌐 [BLOG-GENERATOR](https://github.com/DhanushGD/BLOG-GENERATOR) – Serverless Blog Generator using Meta’s LLaMA 3 on AWS with GenAI
