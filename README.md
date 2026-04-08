@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=920&lines=Fine-tuning+%C2%B7+RAG+pipelines+%C2%B7+Agentic+AI;MCP+%C2%B7+Agent+%26+Interoperability" alt="Fine-tuning, RAG pipelines, Agentic AI, MCP, Agent & Tool Interoperability" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=920&lines=Fine-tuning+%C2%B7+RAG+pipelines+%C2%B7+Agentic+AI;MCP+%C2%B7+Agent+%26+& Tool Interoperability" alt="Fine-tuning, RAG pipelines, Agentic AI, MCP, Agent & Tool Interoperability" />
 </p>
 
 <p align="center"><sub>✦ ✧ ✦</sub></p>
