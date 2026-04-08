@@ -2,8 +2,8 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.herokuapp.com/demo/">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1200&color=0E75B6&center=true&vCenter=true&width=900&lines=AI+Engineer+%7C+Enterprise+GenAI;LLM+Fine-Tuning+%7C+RAG+Pipelines;Agentic+AI+%7C+MCP+%7C+A2A+Workflows;Building+Production-Grade+Autonomous+Systems" />
-
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=900&lines=🚀+AI+Engineer+|+AI+Enthusiast" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
@@ -27,16 +27,6 @@ My work includes **custom LLM fine-tuning**, **MCP-driven integrations**, and **
 I focus on designing **scalable, high-impact GenAI systems** that elevate enterprise automation through reliable, context-aware, and orchestrated agent behavior.
 
 ---
-
-## 🚀 What I Build
-
-- ✅ **Production RAG Pipelines** with semantic chunking, MMR retrieval & eval loops  
-- ✅ **Custom LLM Fine-Tuning** (domain adaptive pretraining + SFT)  
-- ✅ **Agentic AI Systems** with tool use, memory, and reasoning  
-- ✅ **MCP & A2A Interoperability** for cross-agent collaboration  
-- ✅ **Enterprise GenAI Architectures** with safety, observability & scalability
-
-I care about **robustness, not demos**.
 
 ## 📂 My Repositories
 Currently maintaining **25 repositories** — including **13 private** ones.
