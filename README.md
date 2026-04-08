@@ -1,22 +1,34 @@
-<h1 align="center">Hi 👋, This is Dhanush G</h1>
-
+<!-- Unique header: gradient wave (cyan → violet) -->
 <p align="center">
-  <a href="https://readme-typing-svg.herokuapp.com/demo/">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=900&lines=🚀+AI+Engineer+|+AI+Enthusiast" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:a855f7&height=120&section=header&animation=twinkling" alt="" />
+</p>
+
+<h1 align="center">Hi 👋 — I'm <strong>Dhanush G</strong></h1>
+
+<!-- Rotating taglines (replaces single "AI Engineer | AI Enthusiast" line) -->
+<p align="center">
+  <a href="https://github.com/DhanushGD">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=940&lines=AI+Engineer+%C2%B7+LLM%2C+Agents+%26+Enterprise+GenAI;RAG+%C2%B7+MCP+%C2%B7+A2A+%C2%B7+Multi-agent+Orchestration;Shipping+production+AI+at+Automation+Anywhere;Fine-tuning+%C2%B7+Safe+autonomy+%C2%B7+Tool+interoperability" alt="Animated taglines" />
   </a>
 </p>
 
 <p align="center">
+  <a href="https://github.com/DhanushGD" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-DhanushGD-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
   <a href="https://www.linkedin.com/in/d0801" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:dhanushgd0801@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=1000&color=A78BFA&center=true&vCenter=true&width=880&lines=Python+%C2%B7+PyTorch+%C2%B7+AWS+%C2%B7+LLMs;LangChain+%2F+LlamaIndex+%C2%B7+CrewAI+%C2%B7+GenAI+stack" alt="Tech strip" />
+</p>
 
----
+<p align="center"><sub>✦ ✧ ✦</sub></p>
 
 ## 🌟 About Me
 
@@ -29,9 +41,11 @@ I focus on designing **scalable, high-impact GenAI systems** that elevate enterp
 ---
 
 ## 📂 My Repositories
+
 Currently maintaining **25 repositories** — including **13 private** ones.
 
 ### 🔓 Public Highlights:
+
 1. 🌐 [BLOG-GENERATOR](https://github.com/DhanushGD/BLOG-GENERATOR) – Serverless Blog Generator using Meta’s LLaMA 3 on AWS with GenAI
 2. 📄 [Conversational-RAG-System-for-PDF-Documents](https://github.com/DhanushGD/Conversational-RAG-System-for-PDF-Documents-) – Conversational RAG with PDF Uploads and Chat History.
 3. 🌍 [AI-translation-app](https://github.com/DhanushGD/AI-translation-app) – LinguaFlow with Langsmith for real-time insights.
@@ -42,15 +56,16 @@ Currently maintaining **25 repositories** — including **13 private** ones.
 8. ✍️ [Blogging Platform](https://github.com/DhanushGD/BLOGGING-PLATFORM) – simple blogging platform(Full-stack).
 9. 🩺 [Breast Cancer Prediction](https://github.com/DhanushGD/Breast-cancer-prediction) – Breast Cancer Prediction Using Machine Learning
 10. 📧 [Cold Email Generator](https://github.com/DhanushGD/Cold-Email-Generator) – AI-Powered Tool for Personalized Cold Emails Using Generative AI and LLMs.
-11. 🐞 [Jira-Bug-Status-Prediction-and-Recommendation-System](https://github.com/DhanushGD/Jira-Bug-Status-Prediction-and-Recommendation-System) – Bug Status Prediction and Recommendation System is an AI-powered tool designed to. streamline bug tracking and debugging processes.
+11. 🐞 [Jira-Bug-Status-Prediction-and-Recommendation-System](https://github.com/DhanushGD/Jira-Bug-Status-Prediction-and-Recommendation-System) – Bug Status Prediction and Recommendation System is an AI-powered tool designed to streamline bug tracking and debugging processes.
 12. 🌟 [Portfolio](https://github.com/DhanushGD/Portfolio) - My portfolio
 
 ### 🔒 Private Highlights:
+
 13. 🚀 **Medical-RAG**: Domain-Specific Embedding Fine-Tuning for Hallucination Reduction 🏥
 14. 🦙 **BioLLama-R** - Domain‑Adaptive Pretraining (DAPT) + Supervised Fine‑Tuning (SFT) + RLHF with Direct Preference Optimization (DPO)
 15. 🦙 **BioLLama** - From Domain-Adaptive Pretraining to Supervised Fine-Tuning for Healthcare LLMs — teaching LLMs to truly understand healthcare, not just generate text.
-16. 🔗 **InterAgentX 4** — demonstrating **agent interoperability** (Python ↔ JavaScript) and **tool interoperability** via **A2A** (JSON-RPC) and a shared **MCP** layer (arXiv + DuckDuckGo) across languages and framework.
-It combines RAG (**LlamaIndex** + **ChromaDB**), Web Research, Evidence Verification, and JS-based Summarization inside a results-first Streamlit UI with a live workflow visualization.
+16. 🔗 **InterAgentX 4** — demonstrating **agent interoperability** (Python ↔ JavaScript) and **tool interoperability** via **A2A** (JSON-RPC) and a shared **MCP** layer (arXiv + DuckDuckGo) across languages and framework.  
+    It combines RAG (**LlamaIndex** + **ChromaDB**), Web Research, Evidence Verification, and JS-based Summarization inside a results-first Streamlit UI with a live workflow visualization.
 17. 🤝 **InterAgentX** — RAG + CrewAI + **MCP** + ADK-Compatible A2A Agent
 18. 🤖 **SupportSage**: **TinyLlama Fine-Tuned** on Support Tickets with **LoRA/QLoRA** (Unsloth), W&B Tracking, and **SageMaker Deployment via S3**
 19. 🎯 **LlamaRefine**: Aligning TinyLlama via **Supervised Fine-Tuning** and **Direct Preference Optimization (RLHF)**
@@ -63,4 +78,8 @@ It combines RAG (**LlamaIndex** + **ChromaDB**), Web Research, Evidence Verifica
 
 ---
 
-## ⭐ **Feel free to check out my repositories and collaborate!**
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,100:0ea5e9&height=100&section=footer&animation=twinkling" alt="" />
+</p>
+
+<p align="center"><strong>⭐ Feel free to check out my repositories and collaborate!</strong></p>
