@@ -5,10 +5,10 @@
 
 <h1 align="center">Hi 👋 — I'm <strong>Dhanush G</strong></h1>
 
-<!-- Rotating taglines (replaces single "AI Engineer | AI Enthusiast" line) -->
+<!-- Identity: AI Engineer ↔ AI Enthusiast -->
 <p align="center">
   <a href="https://github.com/DhanushGD">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=940&lines=AI+Engineer+%C2%B7+LLM%2C+Agents+%26+Enterprise+GenAI;RAG+%C2%B7+MCP+%C2%B7+A2A+%C2%B7+Multi-agent+Orchestration;Shipping+production+AI+at+Automation+Anywhere;Fine-tuning+%C2%B7+Safe+autonomy+%C2%B7+Tool+interoperability" alt="Animated taglines" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=520&lines=AI+Engineer;AI+Enthusiast" alt="AI Engineer · AI Enthusiast" />
   </a>
 </p>
 
@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=1000&color=A78BFA&center=true&vCenter=true&width=880&lines=Python+%C2%B7+PyTorch+%C2%B7+AWS+%C2%B7+LLMs;LangChain+%2F+LlamaIndex+%C2%B7+CrewAI+%C2%B7+GenAI+stack" alt="Tech strip" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=920&lines=Fine-tuning+%C2%B7+RAG+pipelines+%C2%B7+Agentic+AI;MCP+%C2%B7+Agent+%26+Interoperability" alt="Fine-tuning, RAG pipelines, Agentic AI, MCP, Agent & Interoperability" />
 </p>
 
 <p align="center"><sub>✦ ✧ ✦</sub></p>
