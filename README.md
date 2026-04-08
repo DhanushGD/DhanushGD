@@ -1,9 +1,25 @@
+<h1 align="center">Hi 👋, This is Dhanush V</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira%20Code&weight=700&size=32&duration=2000&pause=1200&color=FF6A00&center=false&vCenter=false&multiline=true&width=800&height=90&lines=Hi+there%2C+This+is+Dhanush+%F0%9F%91%8B;🚀+AI+Engineer+|+AI+Enthusiast)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://readme-typing-svg.herokuapp.com/demo/">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=900&lines=🚀+AI+Engineer+|+AI+Enthusiast%7C+Mentor+%7C+Lifelong+Learner" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/d0801" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:dhanushgd0801@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" alt="Gmail" />
+  </a>
+</p>
+
 
 ---
 
-### 🌟 About Me
+## 🌟 About Me
+
 AI Engineer specialized in **LLM fine-tuning**, **agentic AI systems**, **RAG pipelines**, and **enterprise GenAI architecture**.
 
 At **Automation Anywhere**, I build production-grade AI solutions—ranging from **RAG pipelines** and **multi-agent orchestration** to advanced **tool/agent interoperability** and **in-house model fine-tuning**.  
@@ -12,7 +28,7 @@ I focus on designing **scalable, high-impact GenAI systems** that elevate enterp
 
 ---
 
-### 📂 My Repositories
+## 📂 My Repositories
 Currently maintaining **25 repositories** — including **13 private** ones.
 
 #### 🔓 Public Highlights:
@@ -44,12 +60,6 @@ It combines RAG (**LlamaIndex** + **ChromaDB**), Web Research, Evidence Verifica
 23. 🧠 **SupportMind** - **Stateful multi-agent** IT support powered by **fine-tuned AI(Lora/QLora)**.
 24. 📊 **ChartInsight AI** – A Multi-Agent Chart Analyzer with **Azure OCR** & **LangGraph**
 25. 🔍 **AI IT Assistant** - **Hybrid Search RAG** + Multi-Agent System with **CrewAI**
-
----
-
-### 🌐 Connect with Me
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/d0801/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dhanushg0801@gmail.com)
 
 ---
 
