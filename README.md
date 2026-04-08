@@ -2,8 +2,8 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.herokuapp.com/demo/">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=900&lines=🚀+AI+Engineer+|+AI+Enthusiast" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1200&color=0E75B6&center=true&vCenter=true&width=900&lines=AI+Engineer+%7C+Enterprise+GenAI;LLM+Fine-Tuning+%7C+RAG+Pipelines;Agentic+AI+%7C+MCP+%7C+A2A+Workflows;Building+Production-Grade+Autonomous+Systems" />
+
 </p>
 
 <p align="center">
@@ -28,10 +28,20 @@ I focus on designing **scalable, high-impact GenAI systems** that elevate enterp
 
 ---
 
+## 🚀 What I Build
+
+- ✅ **Production RAG Pipelines** with semantic chunking, MMR retrieval & eval loops  
+- ✅ **Custom LLM Fine-Tuning** (domain adaptive pretraining + SFT)  
+- ✅ **Agentic AI Systems** with tool use, memory, and reasoning  
+- ✅ **MCP & A2A Interoperability** for cross-agent collaboration  
+- ✅ **Enterprise GenAI Architectures** with safety, observability & scalability
+
+I care about **robustness, not demos**.
+
 ## 📂 My Repositories
 Currently maintaining **25 repositories** — including **13 private** ones.
 
-#### 🔓 Public Highlights:
+### 🔓 Public Highlights:
 1. 🌐 [BLOG-GENERATOR](https://github.com/DhanushGD/BLOG-GENERATOR) – Serverless Blog Generator using Meta’s LLaMA 3 on AWS with GenAI
 2. 📄 [Conversational-RAG-System-for-PDF-Documents](https://github.com/DhanushGD/Conversational-RAG-System-for-PDF-Documents-) – Conversational RAG with PDF Uploads and Chat History.
 3. 🌍 [AI-translation-app](https://github.com/DhanushGD/AI-translation-app) – LinguaFlow with Langsmith for real-time insights.
@@ -45,7 +55,7 @@ Currently maintaining **25 repositories** — including **13 private** ones.
 11. 🐞 [Jira-Bug-Status-Prediction-and-Recommendation-System](https://github.com/DhanushGD/Jira-Bug-Status-Prediction-and-Recommendation-System) – Bug Status Prediction and Recommendation System is an AI-powered tool designed to. streamline bug tracking and debugging processes.
 12. 🌟 [Portfolio](https://github.com/DhanushGD/Portfolio) - My portfolio
 
-#### 🔒 Private Highlights:
+### 🔒 Private Highlights:
 13. 🚀 **Medical-RAG**: Domain-Specific Embedding Fine-Tuning for Hallucination Reduction 🏥
 14. 🦙 **BioLLama-R** - Domain‑Adaptive Pretraining (DAPT) + Supervised Fine‑Tuning (SFT) + RLHF with Direct Preference Optimization (DPO)
 15. 🦙 **BioLLama** - From Domain-Adaptive Pretraining to Supervised Fine-Tuning for Healthcare LLMs — teaching LLMs to truly understand healthcare, not just generate text.
@@ -63,4 +73,4 @@ It combines RAG (**LlamaIndex** + **ChromaDB**), Web Research, Evidence Verifica
 
 ---
 
-### ⭐ **Feel free to check out my repositories and collaborate!**
+## ⭐ **Feel free to check out my repositories and collaborate!**
