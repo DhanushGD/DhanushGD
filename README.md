@@ -56,7 +56,7 @@ I focus on designing **scalable, high-impact GenAI systems** that elevate enterp
 
 ## 📂 My Repositories
 
-Currently maintaining **25 repositories** — including **13 private** ones.
+Currently maintaining **26 repositories** — including **14 private** ones.
 
 ### 🔓 Public Highlights:
 
@@ -75,20 +75,21 @@ Currently maintaining **25 repositories** — including **13 private** ones.
 
 ### 🔒 Private Highlights:
 
-13. 🚀 **Medical-RAG**: Domain-Specific Embedding Fine-Tuning for Hallucination Reduction 🏥
-14. 🦙 **BioLLama-R** - Domain‑Adaptive Pretraining (DAPT) + Supervised Fine‑Tuning (SFT) + RLHF with Direct Preference Optimization (DPO)
-15. 🦙 **BioLLama** - From Domain-Adaptive Pretraining to Supervised Fine-Tuning for Healthcare LLMs — teaching LLMs to truly understand healthcare, not just generate text.
-16. 🔗 **InterAgentX 4** — demonstrating **agent interoperability** (Python ↔ JavaScript) and **tool interoperability** via **A2A** (JSON-RPC) and a shared **MCP** layer (arXiv + DuckDuckGo) across languages and framework.  
+13. 🏦 **RiskGraph AI**: An Autonomous Credit Model Auditor (XGBoost + LangGraph + Neo4j GraphRAG + Ollama)
+14. 🚀 **Medical-RAG**: Domain-Specific Embedding Fine-Tuning for Hallucination Reduction 🏥
+16. 🦙 **BioLLama-R** - Domain‑Adaptive Pretraining (DAPT) + Supervised Fine‑Tuning (SFT) + RLHF with Direct Preference Optimization (DPO)
+16. 🦙 **BioLLama** - From Domain-Adaptive Pretraining to Supervised Fine-Tuning for Healthcare LLMs — teaching LLMs to truly understand healthcare, not just generate text.
+17. 🔗 **InterAgentX 4** — demonstrating **agent interoperability** (Python ↔ JavaScript) and **tool interoperability** via **A2A** (JSON-RPC) and a shared **MCP** layer (arXiv + DuckDuckGo) across languages and framework.  
     It combines RAG (**LlamaIndex** + **ChromaDB**), Web Research, Evidence Verification, and JS-based Summarization inside a results-first Streamlit UI with a live workflow visualization.
-17. 🤝 **InterAgentX** — RAG + CrewAI + **MCP** + ADK-Compatible A2A Agent
-18. 🤖 **SupportSage**: **TinyLlama Fine-Tuned** on Support Tickets with **LoRA/QLoRA** (Unsloth), W&B Tracking, and **SageMaker Deployment via S3**
-19. 🎯 **LlamaRefine**: Aligning TinyLlama via **Supervised Fine-Tuning** and **Direct Preference Optimization (RLHF)**
-20. 🧩 **Fine-Tuning with RLHF-PPO** (Proximal Policy Optimization)
-21. 🔍 **Fine-Tuning a Gemma-3n model**
-22. 🩺 **LLM Doctor**: **TinyLlama Fine-Tuned** on MedQuAD with **Ollama** Integration
-23. 🧠 **SupportMind** - **Stateful multi-agent** IT support powered by **fine-tuned AI(Lora/QLora)**.
-24. 📊 **ChartInsight AI** – A Multi-Agent Chart Analyzer with **Azure OCR** & **LangGraph**
-25. 🔍 **AI IT Assistant** - **Hybrid Search RAG** + Multi-Agent System with **CrewAI**
+18. 🤝 **InterAgentX** — RAG + CrewAI + **MCP** + ADK-Compatible A2A Agent
+19. 🤖 **SupportSage**: **TinyLlama Fine-Tuned** on Support Tickets with **LoRA/QLoRA** (Unsloth), W&B Tracking, and **SageMaker Deployment via S3**
+20. 🎯 **LlamaRefine**: Aligning TinyLlama via **Supervised Fine-Tuning** and **Direct Preference Optimization (RLHF)**
+21. 🧩 **Fine-Tuning with RLHF-PPO** (Proximal Policy Optimization)
+22. 🔍 **Fine-Tuning a Gemma-3n model**
+23. 🩺 **LLM Doctor**: **TinyLlama Fine-Tuned** on MedQuAD with **Ollama** Integration
+24. 🧠 **SupportMind** - **Stateful multi-agent** IT support powered by **fine-tuned AI(Lora/QLora)**.
+25. 📊 **ChartInsight AI** – A Multi-Agent Chart Analyzer with **Azure OCR** & **LangGraph**
+26. 🔍 **AI IT Assistant** - **Hybrid Search RAG** + Multi-Agent System with **CrewAI**
 
 ---
 
