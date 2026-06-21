@@ -75,7 +75,7 @@ Currently maintaining **26 repositories** — including **14 private** ones.
 
 ### 🔒 Private Highlights:
 
-13. 🛡️ **AegisML** – Autonomous Self-Healing MLOps Infrastructure for Toxicity Moderation
+13. 🛡️ **AegisML** – A self-healing production **MLOps infrastructure** featuring a **fine-tuned multi-label DistilBERT model**, protected by Great Expectations firewalls, tracked via DVC data lineage, monitored by **Evidently AI**, and autonomously adapted through a Human-in-the-Loop Ollama (Llama 3) re-labeling loop.
 14. 🏦 **RiskGraph AI**: An Autonomous Credit Model Auditor (XGBoost + LangGraph + Neo4j GraphRAG + Ollama)
 15. 🚀 **Medical-RAG**: Domain-Specific Embedding Fine-Tuning for Hallucination Reduction 🏥
 16. 🦙 **BioLLama-R** - Domain‑Adaptive Pretraining (DAPT) + Supervised Fine‑Tuning (SFT) + RLHF with Direct Preference Optimization (DPO)
