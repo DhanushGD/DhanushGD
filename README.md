@@ -56,7 +56,7 @@ I focus on designing **scalable, high-impact GenAI systems** that elevate enterp
 
 ## 📂 My Repositories
 
-Currently maintaining **26 repositories** — including **14 private** ones.
+Currently maintaining **27 repositories** — including **15 private** ones.
 
 ### 🔓 Public Highlights:
 
