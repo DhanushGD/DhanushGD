@@ -39,14 +39,12 @@
 AI Engineer at **Automation Anywhere**, building production-grade GenAI — not demos.
 
 ### 🎯 What I do
-
-🎯 What I do
-📚 Advanced RAG pipelines — Agentic, Graph, Hybrid & Adaptive RAG with grounded, hallucination-resistant retrieval (RAGAS · LangSmith · FAISS · Pinecone · ChromaDB · Neo4j).
-🤖 Multi-agent orchestration — reasoning, retrieval, and validation agents with guardrails and human-in-the-loop safety (LangGraph · CrewAI).
-🔎 Search engines — enterprise search with multi-source ingestion, intent-driven boosting, and LLM-generated summaries (Vespa AI).
-🧠 LLM fine-tuning & alignment — SFT, RLHF (PPO/DPO), DAPT, and PEFT (LoRA/QLoRA via Unsloth); embedding fine-tuning for domain-specific retrieval.
-🔗 Agent & tool interoperability — cross-language, framework-agnostic agents via Model Context Protocol (MCP) and Agent-to-Agent (A2A) communication.
-⚙️ MLOps & closed-loop infrastructure — drift monitoring, automated retraining, data validation firewalls, and CI/CD (Evidently AI · DVC · Great Expectations · GitHub Actions · Docker · FastAPI · AWS SageMaker).
+- 📚 Advanced RAG pipelines — Agentic, Graph, Hybrid & Adaptive RAG with grounded, hallucination-resistant retrieval (RAGAS · LangSmith · FAISS · Pinecone · ChromaDB · Neo4j).
+- 🤖 Multi-agent orchestration — reasoning, retrieval, and validation agents with guardrails and human-in-the-loop safety (LangGraph · CrewAI).
+- 🔎 Search engines — enterprise search with multi-source ingestion, intent-driven boosting, and LLM-generated summaries (Vespa AI).
+- 🧠 LLM fine-tuning & alignment — SFT, RLHF (PPO/DPO), DAPT, and PEFT (LoRA/QLoRA via Unsloth); embedding fine-tuning for domain-specific retrieval.
+- 🔗 Agent & tool interoperability — cross-language, framework-agnostic agents via Model Context Protocol (MCP) and Agent-to-Agent (A2A) communication.
+- ⚙️ MLOps & closed-loop infrastructure — drift monitoring, automated retraining, data validation firewalls, and CI/CD (Evidently AI · DVC · Great Expectations · GitHub Actions · Docker · FastAPI · AWS SageMaker).
 
 ### 💡 What I care about
 
