@@ -45,6 +45,7 @@ AI Engineer at **Automation Anywhere**, building production-grade GenAI — not 
 - 🧠 LLM fine-tuning & alignment — SFT, RLHF (PPO/DPO), DAPT, and PEFT (LoRA/QLoRA via Unsloth); embedding fine-tuning for domain-specific retrieval.
 - 🔗 Agent & tool interoperability — cross-language, framework-agnostic agents via Model Context Protocol (MCP) and Agent-to-Agent (A2A) communication.
 - ⚙️ MLOps & closed-loop infrastructure — drift monitoring, automated retraining, data validation firewalls, and CI/CD (Evidently AI · DVC · Great Expectations · GitHub Actions · Docker · FastAPI · AWS SageMaker).
+- 🚀 Shipped an in-house fine-tuned LLM that replaced paid commercial APIs, eliminating recurring costs.
 
 ### 💡 What I care about
 
@@ -58,9 +59,11 @@ The parts that make AI actually trustworthy — grounding, evaluation, drift mon
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Transformers-FFD21E?style=flat-square&logoColor=black" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/LangGraph-FF6F61?style=flat-square" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/Unsloth-00A67E?style=flat-square" />
   <img src="https://img.shields.io/badge/RAGAS-6E56CF?style=flat-square" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
