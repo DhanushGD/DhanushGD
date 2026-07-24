@@ -5,10 +5,10 @@
 
 <h1 align="center">Hi 👋 — I'm <strong>Dhanush G</strong></h1>
 
-<!-- Identity: AI Engineer ↔ AI Enthusiast -->
+<!-- Identity: stronger, evidence-forward tagline -->
 <p align="center">
   <a href="https://github.com/DhanushGD">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=520&lines=AI+Engineer;AI+Enthusiast" alt="AI Engineer · AI Enthusiast" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=1000&color=38BDF8&center=true&vCenter=true&width=560&lines=AI+Engineer;Production+GenAI+Systems;LLM+Fine-Tuning+%C2%B7+Agentic+RAG" alt="AI Engineer · Production GenAI · LLM Fine-Tuning · Agentic RAG" />
   </a>
 </p>
 
@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=960&lines=Fine-tuning+%C2%B7+RAG+pipelines+%C2%B7+Agentic+AI;MCP+%C2%B7+Agent+%26+Tool+Interoperability" alt="Fine-tuning · RAG pipelines · Agentic AI · MCP · Agent & Tool Interoperability" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=960&lines=Fine-tuning+%C2%B7+RAG+pipelines+%C2%B7+Agentic+AI;MCP+%C2%B7+A2A+%C2%B7+Agent+%26+Tool+Interoperability;Evaluation+%C2%B7+MLOps+%C2%B7+Human-in-the-Loop+Safety" alt="Fine-tuning · RAG · Agentic AI · MCP · A2A · MLOps" />
 </p>
 
 <p align="center"><sub>✦ ✧ ✦</sub></p>
@@ -36,21 +36,41 @@
   <sub>🧠 LLM · 🤖 Agents · 📚 RAG · 🔗 MCP &amp; A2A · 🏢 Enterprise GenAI</sub>
 </p>
 
+AI Engineer at **Automation Anywhere**, building production-grade GenAI — not demos.
+
 ### 🎯 What I do
 
-AI Engineer specialized in **LLM fine-tuning**, **agentic AI systems**, **RAG pipelines**, and **enterprise GenAI architecture**.
+Design and ship LLM systems across the full lifecycle — **fine-tuning** (LoRA/QLoRA, DPO, DAPT), **Agentic RAG**, **multi-agent orchestration** (MCP · A2A), evaluation (RAGAS, LangSmith), and **MLOps**.
 
-### 🏢 What I build
+### 🚀 Recent impact
 
-At **Automation Anywhere**, I build production-grade AI solutions—ranging from **RAG pipelines** and **multi-agent orchestration** to advanced **tool/agent interoperability** and **in-house model fine-tuning**.
+- 🎯 Built a **Hybrid & Agentic RAG** system over a **30K+ document** enterprise corpus for **25+ engineers** — cut hallucinations **~60%** (RAGAS faithfulness).
+- 🧠 Led an **in-house fine-tuned LLM** (TinyLlama · LoRA/QLoRA · Unsloth) deployed on **AWS SageMaker** — replaced paid commercial LLM APIs.
+- 🔍 Architected an enterprise search engine on **Vespa AI** with multi-source ingestion — lifted retrieval precision (NDCG@10) **~22%**.
 
-My work includes **custom LLM fine-tuning**, **MCP-driven integrations**, and **A2A-enabled intelligent workflows** that enable agents to reason, retrieve information, and take safe, autonomous actions.
+### 💡 What I care about
 
-### 🚀 What I focus on
-
-I focus on designing **scalable, high-impact GenAI systems** that elevate enterprise automation through reliable, context-aware, and orchestrated agent behavior.
+The parts that make AI actually trustworthy — grounding, evaluation, drift monitoring, and human-in-the-loop safety. My side projects push the same theme: healthcare LLM alignment (DAPT→SFT→DPO), self-healing MLOps, and autonomous model auditing.
 
 <p align="center"><sub>✦ ✧ ✦</sub></p>
+
+---
+
+## 🛠️ Tech I work with
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-FF6F61?style=flat-square" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Unsloth-00A67E?style=flat-square" />
+  <img src="https://img.shields.io/badge/RAGAS-6E56CF?style=flat-square" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vespa-1A73E8?style=flat-square" />
+</p>
 
 ---
 
@@ -60,7 +80,7 @@ Currently maintaining **27 repositories** — including **15 private** ones.
 
 ### 🔓 Public Highlights:
 
-1. 🌐 [BLOG-GENERATOR](https://github.com/DhanushGD/BLOG-GENERATOR) – Serverless Blog Generator using Meta’s LLaMA 3 on AWS with GenAI
+1. 🌐 [BLOG-GENERATOR](https://github.com/DhanushGD/BLOG-GENERATOR) – Serverless Blog Generator using Meta's LLaMA 3 on AWS with GenAI
 2. 📄 [Conversational-RAG-System-for-PDF-Documents](https://github.com/DhanushGD/Conversational-RAG-System-for-PDF-Documents-) – Conversational RAG with PDF Uploads and Chat History.
 3. 🌍 [AI-translation-app](https://github.com/DhanushGD/AI-translation-app) – LinguaFlow with Langsmith for real-time insights.
 4. 🔮 [LSTM-GRU](https://github.com/DhanushGD/Next_word_prediction_using_LSTM-GRU) – Next Word Prediction with LSTM and GRU.
@@ -70,27 +90,27 @@ Currently maintaining **27 repositories** — including **15 private** ones.
 8. ✍️ [Blogging Platform](https://github.com/DhanushGD/BLOGGING-PLATFORM) – simple blogging platform(Full-stack).
 9. 🩺 [Breast Cancer Prediction](https://github.com/DhanushGD/Breast-cancer-prediction) – Breast Cancer Prediction Using Machine Learning
 10. 📧 [Cold Email Generator](https://github.com/DhanushGD/Cold-Email-Generator) – AI-Powered Tool for Personalized Cold Emails Using Generative AI and LLMs.
-11. 🐞 [Jira-Bug-Status-Prediction-and-Recommendation-System](https://github.com/DhanushGD/Jira-Bug-Status-Prediction-and-Recommendation-System) – Bug Status Prediction and Recommendation System is an AI-powered tool designed to streamline bug tracking and debugging processes.
+11. 🐞 [Jira-Bug-Status-Prediction-and-Recommendation-System](https://github.com/DhanushGD/Jira-Bug-Status-Prediction-and-Recommendation-System) – AI-powered tool to streamline bug tracking and debugging.
 12. 🌟 [Portfolio](https://github.com/DhanushGD/Portfolio) - My portfolio
 
 ### 🔒 Private Highlights:
 
 13. 🛡️ **AegisML** – A self-healing production **MLOps infrastructure** featuring a **fine-tuned multi-label DistilBERT model**, protected by Great Expectations firewalls, tracked via DVC data lineage, monitored by **Evidently AI**, and autonomously adapted through a Human-in-the-Loop Ollama (Llama 3) re-labeling loop.
-14. 🏦 **RiskGraph AI**: An Autonomous Credit Model Auditor (XGBoost + LangGraph + Neo4j GraphRAG + Ollama)
-15. 🚀 **Medical-RAG**: Domain-Specific Embedding Fine-Tuning for Hallucination Reduction 🏥
-16. 🦙 **BioLLama-R** - Domain‑Adaptive Pretraining (DAPT) + Supervised Fine‑Tuning (SFT) + RLHF with Direct Preference Optimization (DPO)
-17. 🦙 **BioLLama** - From Domain-Adaptive Pretraining to Supervised Fine-Tuning for Healthcare LLMs — teaching LLMs to truly understand healthcare, not just generate text.
-18. 🔗 **InterAgentX 4** — demonstrating **agent interoperability** (Python ↔ JavaScript) and **tool interoperability** via **A2A** (JSON-RPC) and a shared **MCP** layer (arXiv + DuckDuckGo) across languages and framework.  
-    It combines RAG (**LlamaIndex** + **ChromaDB**), Web Research, Evidence Verification, and JS-based Summarization inside a results-first Streamlit UI with a live workflow visualization.
+14. 🏦 **RiskGraph AI** – An Autonomous Credit Model Auditor (XGBoost + LangGraph + Neo4j GraphRAG + Ollama)
+15. 🚀 **Medical-RAG** – Domain-Specific Embedding Fine-Tuning for Hallucination Reduction 🏥
+16. 🦙 **BioLLama-R** – Domain-Adaptive Pretraining (DAPT) + Supervised Fine-Tuning (SFT) + RLHF with Direct Preference Optimization (DPO)
+17. 🦙 **BioLLama** – From Domain-Adaptive Pretraining to Supervised Fine-Tuning for Healthcare LLMs — teaching LLMs to truly understand healthcare, not just generate text.
+18. 🔗 **InterAgentX 4** — **agent interoperability** (Python ↔ JavaScript) and **tool interoperability** via **A2A** (JSON-RPC) and a shared **MCP** layer (arXiv + DuckDuckGo) across languages and frameworks.
+    Combines RAG (**LlamaIndex** + **ChromaDB**), Web Research, Evidence Verification, and JS-based Summarization inside a results-first Streamlit UI with live workflow visualization.
 19. 🤝 **InterAgentX** — RAG + CrewAI + **MCP** + ADK-Compatible A2A Agent
-20. 🤖 **SupportSage**: **TinyLlama Fine-Tuned** on Support Tickets with **LoRA/QLoRA** (Unsloth), W&B Tracking, and **SageMaker Deployment via S3**
-21. 🎯 **LlamaRefine**: Aligning TinyLlama via **Supervised Fine-Tuning** and **Direct Preference Optimization (RLHF)**
+20. 🤖 **SupportSage** — **TinyLlama Fine-Tuned** on Support Tickets with **LoRA/QLoRA** (Unsloth), W&B Tracking, and **SageMaker Deployment via S3**
+21. 🎯 **LlamaRefine** — Aligning TinyLlama via **Supervised Fine-Tuning** and **Direct Preference Optimization (RLHF)**
 22. 🧩 **Fine-Tuning with RLHF-PPO** (Proximal Policy Optimization)
 23. 🔍 **Fine-Tuning a Gemma-3n model**
-24. 🩺 **LLM Doctor**: **TinyLlama Fine-Tuned** on MedQuAD with **Ollama** Integration
-25. 🧠 **SupportMind** - **Stateful multi-agent** IT support powered by **fine-tuned AI(Lora/QLora)**.
+24. 🩺 **LLM Doctor** — **TinyLlama Fine-Tuned** on MedQuAD with **Ollama** Integration
+25. 🧠 **SupportMind** — **Stateful multi-agent** IT support powered by **fine-tuned AI (LoRA/QLoRA)**.
 26. 📊 **ChartInsight AI** – A Multi-Agent Chart Analyzer with **Azure OCR** & **LangGraph**
-27. 🔍 **AI IT Assistant** - **Hybrid Search RAG** + Multi-Agent System with **CrewAI**
+27. 🔍 **AI IT Assistant** — **Hybrid Search RAG** + Multi-Agent System with **CrewAI**
 
 ---
 
@@ -99,3 +119,5 @@ Currently maintaining **27 repositories** — including **15 private** ones.
 </p>
 
 <p align="center"><strong>⭐ Feel free to check out my repositories and collaborate!</strong></p>
+
+---
