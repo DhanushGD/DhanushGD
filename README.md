@@ -40,13 +40,13 @@ AI Engineer at **Automation Anywhere**, building production-grade GenAI — not 
 
 ### 🎯 What I do
 
-Design and ship LLM systems across the full lifecycle — **fine-tuning** (LoRA/QLoRA, DPO, DAPT), **Agentic RAG**, **multi-agent orchestration** (MCP · A2A), evaluation (RAGAS, LangSmith), and **MLOps**.
-
-### 🚀 Recent impact
-
-- 🎯 Built a **Hybrid & Agentic RAG** system over a **30K+ document** enterprise corpus for **25+ engineers** — cut hallucinations **~60%** (RAGAS faithfulness).
-- 🧠 Led an **in-house fine-tuned LLM** (TinyLlama · LoRA/QLoRA · Unsloth) deployed on **AWS SageMaker** — replaced paid commercial LLM APIs.
-- 🔍 Architected an enterprise search engine on **Vespa AI** with multi-source ingestion — lifted retrieval precision (NDCG@10) **~22%**.
+🎯 What I do
+📚 Advanced RAG pipelines — Agentic, Graph, Hybrid & Adaptive RAG with grounded, hallucination-resistant retrieval (RAGAS · LangSmith · FAISS · Pinecone · ChromaDB · Neo4j).
+🤖 Multi-agent orchestration — reasoning, retrieval, and validation agents with guardrails and human-in-the-loop safety (LangGraph · CrewAI).
+🔎 Search engines — enterprise search with multi-source ingestion, intent-driven boosting, and LLM-generated summaries (Vespa AI).
+🧠 LLM fine-tuning & alignment — SFT, RLHF (PPO/DPO), DAPT, and PEFT (LoRA/QLoRA via Unsloth); embedding fine-tuning for domain-specific retrieval.
+🔗 Agent & tool interoperability — cross-language, framework-agnostic agents via Model Context Protocol (MCP) and Agent-to-Agent (A2A) communication.
+⚙️ MLOps & closed-loop infrastructure — drift monitoring, automated retraining, data validation firewalls, and CI/CD (Evidently AI · DVC · Great Expectations · GitHub Actions · Docker · FastAPI · AWS SageMaker).
 
 ### 💡 What I care about
 
