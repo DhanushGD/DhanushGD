@@ -77,7 +77,9 @@ I care about the parts that make AI trustworthy in production — grounding, eva
 - 📄 [Conversational RAG for PDFs](https://github.com/DhanushGD/Conversational-RAG-System-for-PDF-Documents-) — PDF upload + chat history
 - 🤖 [GenAI Code Review Bot](https://github.com/DhanushGD/Generative-AI-Code-Review-and-Assistance-Bot)
 - 🐞 [Jira Bug Status Prediction & Recommendation](https://github.com/DhanushGD/Jira-Bug-Status-Prediction-and-Recommendation-System)
-- 📧 [Cold Email Generator](https://github.com/DhanushGD/Cold-Email-Generator) · 🌍 [AI Translation App](https://github.com/DhanushGD/AI-translation-app) · 🌐 [Serverless Blog Generator (LLaMA 3 on AWS)](https://github.com/DhanushGD/BLOG-GENERATOR)
+- 📧 [Cold Email Generator](https://github.com/DhanushGD/Cold-Email-Generator) 
+- 🌍 [AI Translation App](https://github.com/DhanushGD/AI-translation-app) 
+- 🌐 [Serverless Blog Generator (LLaMA 3 on AWS)](https://github.com/DhanushGD/BLOG-GENERATOR)
 
 </details>
 
@@ -122,10 +124,6 @@ I care about the parts that make AI trustworthy in production — grounding, eva
 
 <p align="center"><sub>✦ ✧ ✦</sub></p>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DhanushGD&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhanushGD&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages" />
 </p>
 
