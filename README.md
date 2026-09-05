@@ -1,124 +1,136 @@
-<!-- Unique header: gradient wave (cyan → violet) -->
+<!-- Header -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:a855f7&height=120&section=header&animation=twinkling" alt="" />
 </p>
 
 <h1 align="center">Hi 👋 — I'm <strong>Dhanush G</strong></h1>
 
-<!-- Identity: stronger, evidence-forward tagline -->
 <p align="center">
-  <a href="https://github.com/DhanushGD">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=1000&color=38BDF8&center=true&vCenter=true&width=560&lines=AI+Engineer;Production+GenAI+Systems;LLM+Fine-Tuning+%C2%B7+Agentic+RAG" alt="AI Engineer · Production GenAI · LLM Fine-Tuning · Agentic RAG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=1000&color=38BDF8&center=true&vCenter=true&width=560&lines=AI+Engineer;Production+GenAI+Systems;LLM+Fine-Tuning+%C2%B7+Agentic+RAG+%C2%B7+MLOps" alt="AI Engineer · Production GenAI · LLM Fine-Tuning · Agentic RAG · MLOps" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/DhanushGD" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-DhanushGD-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
   <a href="https://www.linkedin.com/in/d0801" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:dhanushgd0801@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=960&lines=Fine-tuning+%C2%B7+RAG+pipelines+%C2%B7+Agentic+AI;MCP+%C2%B7+A2A+%C2%B7+Agent+%26+Tool+Interoperability;Evaluation+%C2%B7+MLOps+%C2%B7+Human-in-the-Loop+Safety" alt="Fine-tuning · RAG · Agentic AI · MCP · A2A · MLOps" />
+  <a href="https://github.com/DhanushGD/Portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-View-a855f7?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
 
 <p align="center"><sub>✦ ✧ ✦</sub></p>
 
 ## 🌟 About Me
 
-<p align="center">
-  <sub>🧠 LLM · 🤖 Agents · 📚 RAG · 🔗 MCP &amp; A2A · 🏢 Enterprise GenAI</sub>
-</p>
+AI Engineer at **Automation Anywhere** (2.5+ yrs), where I own the support-AI stack end to end: a multi-tenant **Vespa**-backed enterprise search platform, a **Hybrid Agentic RAG** layer on top of it, and an in-house **fine-tuned LLM on AWS SageMaker** with a drift-triggered self-healing retraining loop. It's used daily by 25+ support engineers and embedded by external customers over 150K+ documents.
 
-AI Engineer at **Automation Anywhere**, building production-grade GenAI — not demos.
+I care about the parts that make AI trustworthy in production — grounding, evaluation, drift monitoring, and human-in-the-loop safety. My open-source work pushes the same themes: LLM alignment (DAPT → SFT → DPO), agent interoperability (MCP / A2A), and closed-loop MLOps.
 
-### 🎯 What I do
-- 📚 Advanced RAG pipelines — Agentic, Graph, Hybrid & Adaptive RAG with grounded, hallucination-resistant retrieval (RAGAS · LangSmith · FAISS · Pinecone · ChromaDB · Neo4j).
-- 🤖 Multi-agent orchestration — reasoning, retrieval, and validation agents with guardrails and human-in-the-loop safety (LangGraph · CrewAI).
-- 🔎 Search engines — enterprise search with multi-source ingestion, intent-driven boosting, and LLM-generated summaries (Vespa AI).
-- 🧠 LLM fine-tuning & alignment — SFT, RLHF (PPO/DPO), DAPT, and PEFT (LoRA/QLoRA via Unsloth); embedding fine-tuning for domain-specific retrieval.
-- 🔗 Agent & tool interoperability — cross-language, framework-agnostic agents via Model Context Protocol (MCP) and Agent-to-Agent (A2A) communication.
-- ⚙️ MLOps & closed-loop infrastructure — drift monitoring, automated retraining, data validation firewalls, and CI/CD (Evidently AI · DVC · Great Expectations · GitHub Actions · Docker · FastAPI · AWS SageMaker).
-- 🚀 Shipped an in-house fine-tuned LLM that replaced paid commercial APIs, eliminating recurring costs.
+### 📈 Things I've shipped at work
 
-### 💡 What I care about
-
-The parts that make AI actually trustworthy — grounding, evaluation, drift monitoring, and human-in-the-loop safety. My side projects push the same theme: healthcare LLM alignment (DAPT→SFT→DPO), self-healing MLOps, and autonomous model auditing.
+| Area | What | Result |
+|---|---|---|
+| 🔎 Enterprise Search | Multi-tenant Vespa hybrid search (BM25 + vector) with pluggable ETL from Salesforce, Jira, Fluid Topics & web crawl | **+22% NDCG@10**, replaced a licensed third-party tool |
+| 🤖 Agentic RAG | LangGraph + MCP retrieval / reasoning / validation agents with HITL guardrails | **−60% hallucinations** (RAGAS), latency **8s → 3.2s** |
+| 🧪 LLM Evaluation | CI-gated RAGAS + LangSmith eval pipeline on every release | **−75%** eval turnaround |
+| 🧠 Fine-tuned LLM | TinyLlama QLoRA (Unsloth) on 100K+ resolved-case dataset, served on SageMaker | **83% → 87%** golden-set accuracy, **−70%** inference cost |
+| 🔁 Self-healing MLOps | Evidently drift triggers → retrain → golden-set gate → blue/green deploy → auto-rollback | Retrain-to-deploy **~2 days → ~4 hours**, unattended |
 
 <p align="center"><sub>✦ ✧ ✦</sub></p>
 
----
+## 🚀 Featured Projects
+
+> The ones that best show how I think. Each has a full README with architecture, eval results, and how to run it.
+
+| Project | What it is | Stack |
+|---|---|---|
+| 🦙 **[BioLLama-R](https://github.com/DhanushGD/BioLLama-R)** | Full three-stage LLM alignment pipeline for healthcare — **DAPT → SFT → RLHF (DPO)** — with the aligned model wired into a Groq-powered agentic pipeline for patient intake, clinical reasoning, and safety validation | Unsloth · TRL · Hugging Face · Groq · LangGraph |
+| 🔗 **[InterAgentX 4](https://github.com/DhanushGD/InterAgentX-4)** | Cross-language multi-agent system — three Python agents (RAG Analyst, Web Researcher, Evidence Verifier) and a JavaScript Summarizer collaborating over **A2A (JSON-RPC streaming)** with a shared **MCP** tool layer consumed identically from both runtimes | A2A · MCP · LlamaIndex · ChromaDB · Streamlit |
+| 🛡️ **[AegisML](https://github.com/DhanushGD/AegisML)** | Self-healing production MLOps for content moderation — fine-tuned multi-label DistilBERT with **Evidently drift detection → Ollama-assisted HITL re-labeling → DVC lineage → Great Expectations gate → zero-downtime CI/CD** | DistilBERT · FastAPI · Evidently · DVC · GitHub Actions |
+| 🤖 **[SupportSage](https://github.com/DhanushGD/SupportSage)** | TinyLlama fine-tuned on support tickets with **LoRA/QLoRA**, W&B tracking, and SageMaker deployment via S3 — the open-source sibling of my production fine-tuning pipeline | Unsloth · W&B · SageMaker |
+| 🏦 **[RiskGraph AI](https://github.com/DhanushGD/RiskGraph-AI)** | Autonomous credit-model auditor — XGBoost + SHAP explanations fed into a LangGraph agent over a Neo4j **GraphRAG** knowledge base | XGBoost · SHAP · LangGraph · Neo4j · Ollama |
+| 🩺 **[Medical-RAG](https://github.com/DhanushGD/Medical-RAG)** | Domain-specific **embedding fine-tuning** for hallucination reduction in medical retrieval, benchmarked against base embeddings with RAGAS | Sentence-Transformers · RAGAS · FAISS |
+
+<details>
+<summary><b>🧪 More fine-tuning & alignment experiments</b></summary>
+<br>
+
+- 🎯 **LlamaRefine** — Aligning TinyLlama via SFT + DPO
+- 🧩 **RLHF-PPO** — Fine-tuning with Proximal Policy Optimization
+- 🔍 **Gemma-3n Fine-Tuning**
+- 🩺 **LLM Doctor** — TinyLlama fine-tuned on MedQuAD with Ollama integration
+- 🦙 **BioLLama** — DAPT → SFT for healthcare LLMs (predecessor to BioLLama-R)
+
+</details>
+
+<details>
+<summary><b>🤖 More agents & RAG</b></summary>
+<br>
+
+- 🧠 **SupportMind** — Stateful multi-agent IT support on a LoRA/QLoRA fine-tuned model
+- 🤝 **InterAgentX** — RAG + CrewAI + MCP + ADK-compatible A2A agent
+- 📊 **ChartInsight AI** — Multi-agent chart analyzer with Azure OCR + LangGraph
+- 🔍 **AI IT Assistant** — Hybrid-search RAG + multi-agent system with CrewAI
+- 📄 [Conversational RAG for PDFs](https://github.com/DhanushGD/Conversational-RAG-System-for-PDF-Documents-) — PDF upload + chat history
+- 🤖 [GenAI Code Review Bot](https://github.com/DhanushGD/Generative-AI-Code-Review-and-Assistance-Bot)
+- 🐞 [Jira Bug Status Prediction & Recommendation](https://github.com/DhanushGD/Jira-Bug-Status-Prediction-and-Recommendation-System)
+- 📧 [Cold Email Generator](https://github.com/DhanushGD/Cold-Email-Generator) · 🌍 [AI Translation App](https://github.com/DhanushGD/AI-translation-app) · 🌐 [Serverless Blog Generator (LLaMA 3 on AWS)](https://github.com/DhanushGD/BLOG-GENERATOR)
+
+</details>
+
+<details>
+<summary><b>📚 Classic ML / DL foundations</b></summary>
+<br>
+
+- 🔮 [Next-word prediction — LSTM/GRU](https://github.com/DhanushGD/Next_word_prediction_using_LSTM-GRU)
+- 🧠 [RNN sentiment analysis](https://github.com/DhanushGD/RNN---Sentiment-Analysis)
+- ⚡ [Customer churn — ANN](https://github.com/DhanushGD/ANN-CLASSIFICATION-CHURN)
+- 🩺 [Breast cancer prediction](https://github.com/DhanushGD/Breast-cancer-prediction)
+- ✍️ [Full-stack blogging platform](https://github.com/DhanushGD/BLOGGING-PLATFORM)
+
+</details>
+
+<p align="center"><sub>✦ ✧ ✦</sub></p>
 
 ## 🛠️ Tech I work with
+
+**LLMs & Agents** — LangChain · LangGraph · LlamaIndex · CrewAI · MCP · A2A · Hugging Face · Unsloth · Guardrails / HITL
+
+**Fine-Tuning & Eval** — SFT · LoRA/QLoRA · DAPT · RLHF (PPO/DPO) · Embedding fine-tuning · RAGAS · LangSmith · W&B
+
+**Search & RAG** — Vespa AI (hybrid BM25 + vector) · FAISS · ChromaDB · Neo4j / GraphRAG
+
+**MLOps & Infra** — AWS SageMaker (Training Jobs, Model Registry, Endpoints) · S3 · EC2 · Docker · FastAPI · GitHub Actions · DVC · Great Expectations · Evidently AI · MongoDB
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Transformers-FFD21E?style=flat-square&logoColor=black" />
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/LangGraph-FF6F61?style=flat-square" />
   <img src="https://img.shields.io/badge/Unsloth-00A67E?style=flat-square" />
   <img src="https://img.shields.io/badge/RAGAS-6E56CF?style=flat-square" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vespa-1A73E8?style=flat-square" />
+  <img src="https://img.shields.io/badge/AWS%20SageMaker-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vespa-1A73E8?style=flat-square" />
 </p>
 
----
+<p align="center"><sub>✦ ✧ ✦</sub></p>
 
-## 📂 My Repositories
+## 📊 GitHub Stats
 
-Currently maintaining **27 repositories** — including **15 private** ones.
-
-### 🔓 Public Highlights:
-
-1. 🌐 [BLOG-GENERATOR](https://github.com/DhanushGD/BLOG-GENERATOR) – Serverless Blog Generator using Meta's LLaMA 3 on AWS with GenAI
-2. 📄 [Conversational-RAG-System-for-PDF-Documents](https://github.com/DhanushGD/Conversational-RAG-System-for-PDF-Documents-) – Conversational RAG with PDF Uploads and Chat History.
-3. 🌍 [AI-translation-app](https://github.com/DhanushGD/AI-translation-app) – LinguaFlow with Langsmith for real-time insights.
-4. 🔮 [LSTM-GRU](https://github.com/DhanushGD/Next_word_prediction_using_LSTM-GRU) – Next Word Prediction with LSTM and GRU.
-5. 🧠 [RNN](https://github.com/DhanushGD/RNN---Sentiment-Analysis) – RNN-Sentiment-Analysis
-6. ⚡ [ANN](https://github.com/DhanushGD/ANN-CLASSIFICATION-CHURN) – Customer Churn Prediction - ANN
-7. 🤖 [Generative AI Code Review and Assistance Bot](https://github.com/DhanushGD/Generative-AI-Code-Review-and-Assistance-Bot) – Generative AI Code Review and Assistance Bot
-8. ✍️ [Blogging Platform](https://github.com/DhanushGD/BLOGGING-PLATFORM) – simple blogging platform(Full-stack).
-9. 🩺 [Breast Cancer Prediction](https://github.com/DhanushGD/Breast-cancer-prediction) – Breast Cancer Prediction Using Machine Learning
-10. 📧 [Cold Email Generator](https://github.com/DhanushGD/Cold-Email-Generator) – AI-Powered Tool for Personalized Cold Emails Using Generative AI and LLMs.
-11. 🐞 [Jira-Bug-Status-Prediction-and-Recommendation-System](https://github.com/DhanushGD/Jira-Bug-Status-Prediction-and-Recommendation-System) – AI-powered tool to streamline bug tracking and debugging.
-12. 🌟 [Portfolio](https://github.com/DhanushGD/Portfolio) - My portfolio
-
-### 🔒 Private Highlights:
-
-13. 🛡️ **AegisML** – A self-healing production **MLOps infrastructure** featuring a **fine-tuned multi-label DistilBERT model**, protected by Great Expectations firewalls, tracked via DVC data lineage, monitored by **Evidently AI**, and autonomously adapted through a Human-in-the-Loop Ollama (Llama 3) re-labeling loop.
-14. 🏦 **RiskGraph AI** – An Autonomous Credit Model Auditor (XGBoost + LangGraph + Neo4j GraphRAG + Ollama)
-15. 🚀 **Medical-RAG** – Domain-Specific Embedding Fine-Tuning for Hallucination Reduction 🏥
-16. 🦙 **BioLLama-R** – Domain-Adaptive Pretraining (DAPT) + Supervised Fine-Tuning (SFT) + RLHF with Direct Preference Optimization (DPO)
-17. 🦙 **BioLLama** – From Domain-Adaptive Pretraining to Supervised Fine-Tuning for Healthcare LLMs — teaching LLMs to truly understand healthcare, not just generate text.
-18. 🔗 **InterAgentX 4** — **agent interoperability** (Python ↔ JavaScript) and **tool interoperability** via **A2A** (JSON-RPC) and a shared **MCP** layer (arXiv + DuckDuckGo) across languages and frameworks.
-    Combines RAG (**LlamaIndex** + **ChromaDB**), Web Research, Evidence Verification, and JS-based Summarization inside a results-first Streamlit UI with live workflow visualization.
-19. 🤝 **InterAgentX** — RAG + CrewAI + **MCP** + ADK-Compatible A2A Agent
-20. 🤖 **SupportSage** — **TinyLlama Fine-Tuned** on Support Tickets with **LoRA/QLoRA** (Unsloth), W&B Tracking, and **SageMaker Deployment via S3**
-21. 🎯 **LlamaRefine** — Aligning TinyLlama via **Supervised Fine-Tuning** and **Direct Preference Optimization (RLHF)**
-22. 🧩 **Fine-Tuning with RLHF-PPO** (Proximal Policy Optimization)
-23. 🔍 **Fine-Tuning a Gemma-3n model**
-24. 🩺 **LLM Doctor** — **TinyLlama Fine-Tuned** on MedQuAD with **Ollama** Integration
-25. 🧠 **SupportMind** — **Stateful multi-agent** IT support powered by **fine-tuned AI (LoRA/QLoRA)**.
-26. 📊 **ChartInsight AI** – A Multi-Agent Chart Analyzer with **Azure OCR** & **LangGraph**
-27. 🔍 **AI IT Assistant** — **Hybrid Search RAG** + Multi-Agent System with **CrewAI**
-
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DhanushGD&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhanushGD&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages" />
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,100:0ea5e9&height=100&section=footer&animation=twinkling" alt="" />
 </p>
 
-<p align="center"><strong>⭐ Feel free to check out my repositories and collaborate!</strong></p>
-
----
+<p align="center"><strong>⭐ Open to collaborating on RAG evaluation, LLM alignment, and agent interoperability — reach out!</strong></p>
