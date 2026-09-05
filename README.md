@@ -86,4 +86,4 @@ I'm an AI Engineer who likes building the whole stack behind a language model �
 
 </p>
 
-<p align="center"><strong>⭐ Open to collaborating on RAG evaluation, LLM alignment, and agent interoperability — reach out!</strong></p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,100:0ea5e9&height=100&section=footer&animation=twinkling" alt="" /> </p> <p align="center"><strong>⭐ Open to collaborating on RAG evaluation, LLM alignment, and agent interoperability — reach out!</strong></p>
